@@ -2,8 +2,7 @@
   
  👀 I’m interested in math, c++, python and ML, DS
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konstm1111&theme=solarized_dark)      [![Konstm`s LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Konstm)](https://github.com/Konstm/leetcode-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konstm1111&theme=solarized_dark)      
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
