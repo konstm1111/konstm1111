@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://https://github.com/konstm1111" target="_blank">Konstantin</a> 
   
- 👀 I’m interested in math, c++, python and ML, DS
+ 👀 I’m interested in math, DS, ML, Python, SQL and c++
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konstm1111&theme=solarized_dark)      
 
